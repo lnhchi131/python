@@ -1,1 +1,4 @@
 # python 
+```py
+print "xinchao"
+```
